@@ -3,8 +3,8 @@
 ## Module Overview
 
 | Module | GitHub Markdown | PDF Pages: |
-| :---: | --- | :---: | :---: |
-| M1  | [Networking Today](./modules/Module1.md) | 4 |  |
+| :---: | --- | :---: |
+| M1  | [Networking Today](./modules/Module1.md) | 4 |
 | M2  | [Basic Switch and End Device Configuration](./modules/Module2.md) | 5 |
 | M3  | [Protocols and Models](./modules/Module3.md) | 11 |
 | M4  | [The Physical Layer](./modules/Module4.md) | 8 |
@@ -12,7 +12,7 @@
 | M7  | [Ethernet Switching](./modules/Module7.md) | 7 |
 | M8  | [Network Layer](./modules/Module8.md) | 6 |
 | M9  | [Address Resolution](./modules/Module9.md) | 2 |
-| M10 | [Basic Router Configuration](./modules/Module10.md) |  |
+| M10 | [Basic Router Configuration](./modules/Module10.md) | 2 |
 | M11 | [](./modules/Module11.md) |  |
 | M12 | [](./modules/Module12.md) |  |
 | M13 | [](./modules/Module13.md) |  |
