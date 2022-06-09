@@ -81,7 +81,7 @@ Connections now are all done via internet. When it used to be thru coax, RJ33, R
 
 ### Fault Tolerance
 
-Limit the impact of a failure. Reliable networks provide redundancy by implementing a **Packet Switched Network**. **Packet switching** splits traffic into packets that are routed over a network, 
+Limit the impact of a failure. Reliable networks provide redundancy by implementing a **Packet Switched Network**. **Packet switching** splits traffic into packets that are routed over a network,
 Each packet could theoretically take a different path to the destination.
 
 This is not possible with **circuit-switched network** (like the former telephone network).
